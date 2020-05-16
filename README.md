@@ -10,6 +10,6 @@ Here, we go beyond “Hello World” and start applying the fundamental patterns
 ## An R version
 
 
-**This [R Notebook](https://r-icntay.github.io/Machine-Learning-Foundations-Computer_vision/)** at its core tries to replicate the [Python Notebook](https://colab.research.google.com/github/lmoroney/mlday-tokyo/blob/master/Lab2-Computer-Vision.ipynb#scrollTo=q3KzJyjv3rnA) used for this episode.
+**This [R Notebook](https://r-icntay.github.io/Episode_2-Machine-Learning-Foundations-Computer_vision/.)** at its core tries to replicate the [Python Notebook](https://colab.research.google.com/github/lmoroney/mlday-tokyo/blob/master/Lab2-Computer-Vision.ipynb#scrollTo=q3KzJyjv3rnA) used for this episode.
 
 
