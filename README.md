@@ -10,7 +10,7 @@ Here, we go beyond “Hello World” and we start applying the fundamental patte
 ## An R version
 
 
-**This [R Notebook](https://r-icntay.github.io/Episode_2-Machine-Learning-Foundations-Computer_vision/.)** at its core is meant to get you up to speed with building Neural Networks using Keras with an application in computer vision.
+**This [R Notebook](https://r-icntay.github.io/Episode_2-Machine-Learning-Foundations-Computer_vision/.)** at its core is meant to get you up to speed with building Neural Networks using TensorFlow with an application in computer vision.
 
 
 The Python Notebook used for this episode can be found [here](https://colab.research.google.com/github/lmoroney/mlday-tokyo/blob/master/Lab2-Computer-Vision.ipynb#scrollTo=q3KzJyjv3rnA).
